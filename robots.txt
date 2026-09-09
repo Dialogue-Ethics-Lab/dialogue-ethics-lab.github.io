@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dialogue-ethics-lab.github.io/sitemap.xml
